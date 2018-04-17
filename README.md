@@ -1,0 +1,2 @@
+# solicitor-hugo
+public test
